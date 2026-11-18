@@ -24,9 +24,9 @@
 ### 🧭 About me
 
 - 📊 **10+ years** across finance, investment funds and data — now focused on **Business Intelligence and Economic Intelligence**
-- 🏛️ Built data pipelines and indicators for **InvestRJ**, the investment attraction portal for the State of Rio de Janeiro and its 92 municipalities
+- 🏛️ At **Codin**, built data pipelines and indicators for **InvestRJ**, the investment attraction portal for the State of Rio de Janeiro and its 92 municipalities
 - 💧 At **Águas do Rio**, delivered **30+ Power BI dashboards**, mapped **50+ BPMN processes** and ran Power BI Service governance
-- ⚡ Automated fund portfolio controls at **Sinqia**, cutting processing time by **90%** (6h → 40min)
+- ⚡ Automated fund portfolio controls at **Sinqia**, cutting processing time by **90%**
 - 🎓 MBA in BI & Analytics (Xperiun) · AWS re/Start (Escola da Nuvem) · B.Sc. Economics (Ibmec-RJ)
 - 🏆 3rd place — Aegea INOVAE Innovation Award (2024) · 3rd place — Santander Data Challenge Hackathon (2020)
 
