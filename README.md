@@ -37,15 +37,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" height="14" alt="Portuguese (native)" title="Portuguese (native)" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" height="14" alt="English" title="English" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" height="14" alt="Spanish (basic)" title="Spanish (basic)" /><br/>
-  <sub>Open to opportunities — feel free to reach out.</sub>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-left-dark.svg" /><img src="./assets/footer-left-light.svg" align="left" height="44" alt="Let&#39;s connect — open to opportunities" /></picture>
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/thiagovictoria/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-linkedin-dark.svg" /><img src="./assets/icon-linkedin-light.svg" height="36" alt="LinkedIn" title="LinkedIn" /></picture></a>
   &nbsp;
   <a href="mailto:thif.victoria@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-email-dark.svg" /><img src="./assets/icon-email-light.svg" height="36" alt="Email" title="Email" /></picture></a>
   &nbsp;
   <a href="https://wa.me/5521991288775"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-whatsapp-dark.svg" /><img src="./assets/icon-whatsapp-light.svg" height="36" alt="WhatsApp" title="WhatsApp" /></picture></a>
+  &nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-langs-dark.svg" /><img src="./assets/footer-langs-light.svg" height="36" alt="Languages: Portuguese (native), English, Spanish (basic)" title="Portuguese (native) · English · Spanish (basic)" /></picture>
 </p>
