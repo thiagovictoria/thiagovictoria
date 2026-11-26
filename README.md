@@ -1,12 +1,9 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=1&pause=100000&center=true&vCenter=true&repeat=false&width=400&height=50&lines=Thiago+Victoria&color=F0F6FC" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=1&pause=100000&center=true&vCenter=true&repeat=false&width=400&height=50&lines=Thiago+Victoria&color=1F2328" alt="Thiago Victoria" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg" />
+  <img src="./header-light.svg" width="100%" alt="Thiago Victoria — Economist · Data Analyst. Idea, process, data and decision, each powered by AI." />
+</picture>
 
 <p align="center">
-  <strong>Economist · Data Analyst</strong><br/>
   <em>Turning data into decisions and growth</em><br/>
   📍 Rio de Janeiro, Brazil
 </p>
