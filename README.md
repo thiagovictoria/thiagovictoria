@@ -4,16 +4,15 @@
 </picture>
 
 <p align="center">
-  <em>Turning data into decisions and growth</em><br/>
   📍 Rio de Janeiro, Brazil
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagovictoria/"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linkedin.svg" height="25" alt="LinkedIn" title="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:thif.victoria@gmail.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" height="25" alt="Email" title="Email" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5521991288775"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" height="25" alt="WhatsApp" title="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/thiagovictoria/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img src="./assets/btn-linkedin-light.svg" height="40" alt="LinkedIn" /></picture></a>
+  &nbsp;
+  <a href="mailto:thif.victoria@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img src="./assets/btn-email-light.svg" height="40" alt="Email" /></picture></a>
+  &nbsp;
+  <a href="https://wa.me/5521991288775"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-whatsapp-dark.svg" /><img src="./assets/btn-whatsapp-light.svg" height="40" alt="WhatsApp" /></picture></a>
 </p>
 
 ---
