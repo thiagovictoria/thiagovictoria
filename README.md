@@ -37,24 +37,14 @@
 
 ---
 
-<div align="center">
-<table>
-  <tr>
-    <th align="center" width="220"><sub>CONTACT</sub></th>
-    <th align="center" width="220"><sub>LANGUAGES</sub></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/thiagovictoria/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-linkedin-dark.svg" /><img src="./assets/icon-linkedin-light.svg" height="36" alt="LinkedIn" title="LinkedIn" /></picture></a>
-      &nbsp;
-      <a href="mailto:thif.victoria@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-email-dark.svg" /><img src="./assets/icon-email-light.svg" height="36" alt="Email" title="Email" /></picture></a>
-      &nbsp;
-      <a href="https://wa.me/5521991288775"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-whatsapp-dark.svg" /><img src="./assets/icon-whatsapp-light.svg" height="36" alt="WhatsApp" title="WhatsApp" /></picture></a>
-    </td>
-    <td align="center">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/flags-dark.svg" /><img src="./assets/flags-light.svg" height="36" alt="Languages: Portuguese (native), English, Spanish (basic)" title="Portuguese (native) · English · Spanish (basic)" /></picture>
-    </td>
-  </tr>
-</table>
-<sub>Open to opportunities — feel free to reach out.</sub>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-left-dark.svg" /><img src="./assets/footer-left-light.svg" align="left" height="44" alt="Let&#39;s connect — open to opportunities" /></picture>
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/thiagovictoria/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-linkedin-dark.svg" /><img src="./assets/icon-linkedin-light.svg" height="36" alt="LinkedIn" title="LinkedIn" /></picture></a>
+  &nbsp;
+  <a href="mailto:thif.victoria@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-email-dark.svg" /><img src="./assets/icon-email-light.svg" height="36" alt="Email" title="Email" /></picture></a>
+  &nbsp;
+  <a href="https://wa.me/5521991288775"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icon-whatsapp-dark.svg" /><img src="./assets/icon-whatsapp-light.svg" height="36" alt="WhatsApp" title="WhatsApp" /></picture></a>
+  &nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-langs-dark.svg" /><img src="./assets/footer-langs-light.svg" height="36" alt="Languages: Portuguese (native), English, Spanish (basic)" title="Portuguese (native) · English · Spanish (basic)" /></picture>
+</p>
