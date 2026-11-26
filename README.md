@@ -4,15 +4,11 @@
 </picture>
 
 <p align="center">
-  📍 Rio de Janeiro, Brazil
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiagovictoria/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img src="./assets/btn-linkedin-light.svg" height="40" alt="LinkedIn" /></picture></a>
+  <a href="https://www.linkedin.com/in/thiagovictoria/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img src="./assets/btn-linkedin-light.svg" height="40" alt="LinkedIn" title="LinkedIn" /></picture></a>
   &nbsp;
-  <a href="mailto:thif.victoria@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img src="./assets/btn-email-light.svg" height="40" alt="Email" /></picture></a>
+  <a href="mailto:thif.victoria@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img src="./assets/btn-email-light.svg" height="40" alt="Email" title="Email" /></picture></a>
   &nbsp;
-  <a href="https://wa.me/5521991288775"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-whatsapp-dark.svg" /><img src="./assets/btn-whatsapp-light.svg" height="40" alt="WhatsApp" /></picture></a>
+  <a href="https://wa.me/5521991288775"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-whatsapp-dark.svg" /><img src="./assets/btn-whatsapp-light.svg" height="40" alt="WhatsApp" title="WhatsApp" /></picture></a>
 </p>
 
 ---

@@ -13,7 +13,7 @@
 <line x1="352" y1="116" x2="424" y2="116" stroke="#30363d"/>
 <g opacity=".4"><animate attributeName="opacity" values="1;0.4" keyTimes="0;0.2" dur="20s" repeatCount="indefinite" calcMode="discrete"/><text x="352" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A78BFA">✦ AI</text><text x="352" y="152" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A78BFA">research</text></g>
 <rect x="352" y="162" width="72" height="3" rx="1.5" fill="#30363d"/>
-<rect x="352" y="162" width="0" height="3" rx="1.5" fill="#A78BFA"><animate attributeName="width" values="0;0;72;72" keyTimes="0;0.0;0.2;1" dur="20s" repeatCount="indefinite" /></rect>
+<rect x="352" y="162" width="0" height="3" rx="1.5" fill="#A78BFA"><animate attributeName="width" values="0;0;72;72" keyTimes="0;0.0;0.2;1" dur="20s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;1;.3;.3" keyTimes="0;0.2;0.23;1" dur="20s" repeatCount="indefinite" /></rect>
 <rect x="458" y="39" width="100" height="144" rx="10" fill="#010409"/>
 <rect x="453" y="34" width="100" height="144" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="453" y="34" width="100" height="144" rx="10" fill="none" stroke="#A78BFA" stroke-width="1.8" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2;0.4" dur="20s" repeatCount="indefinite" calcMode="discrete"/></rect>
@@ -25,7 +25,7 @@
 <line x1="467" y1="116" x2="539" y2="116" stroke="#30363d"/>
 <g opacity=".4"><animate attributeName="opacity" values="0.4;1;0.4" keyTimes="0;0.2;0.4" dur="20s" repeatCount="indefinite" calcMode="discrete"/><text x="467" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A78BFA">✦ AI</text><text x="467" y="152" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A78BFA">automate</text></g>
 <rect x="467" y="162" width="72" height="3" rx="1.5" fill="#30363d"/>
-<rect x="467" y="162" width="0" height="3" rx="1.5" fill="#A78BFA"><animate attributeName="width" values="0;0;72;72" keyTimes="0;0.2;0.4;1" dur="20s" repeatCount="indefinite" /></rect>
+<rect x="467" y="162" width="0" height="3" rx="1.5" fill="#A78BFA"><animate attributeName="width" values="0;0;72;72" keyTimes="0;0.2;0.4;1" dur="20s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;1;.3;.3" keyTimes="0;0.4;0.43;1" dur="20s" repeatCount="indefinite" /></rect>
 <rect x="573" y="39" width="100" height="144" rx="10" fill="#010409"/>
 <rect x="568" y="34" width="100" height="144" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="568" y="34" width="100" height="144" rx="10" fill="none" stroke="#A78BFA" stroke-width="1.8" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4;0.6" dur="20s" repeatCount="indefinite" calcMode="discrete"/></rect>
@@ -37,7 +37,7 @@
 <line x1="582" y1="116" x2="654" y2="116" stroke="#30363d"/>
 <g opacity=".4"><animate attributeName="opacity" values="0.4;1;0.4" keyTimes="0;0.4;0.6" dur="20s" repeatCount="indefinite" calcMode="discrete"/><text x="582" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A78BFA">✦ AI</text><text x="582" y="152" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A78BFA">model</text></g>
 <rect x="582" y="162" width="72" height="3" rx="1.5" fill="#30363d"/>
-<rect x="582" y="162" width="0" height="3" rx="1.5" fill="#A78BFA"><animate attributeName="width" values="0;0;72;72" keyTimes="0;0.4;0.6;1" dur="20s" repeatCount="indefinite" /></rect>
+<rect x="582" y="162" width="0" height="3" rx="1.5" fill="#A78BFA"><animate attributeName="width" values="0;0;72;72" keyTimes="0;0.4;0.6;1" dur="20s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;1;.3;.3" keyTimes="0;0.6;0.63;1" dur="20s" repeatCount="indefinite" /></rect>
 <rect x="688" y="39" width="100" height="144" rx="10" fill="#010409"/>
 <rect x="683" y="34" width="100" height="144" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="683" y="34" width="100" height="144" rx="10" fill="none" stroke="#A78BFA" stroke-width="1.8" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6;0.8" dur="20s" repeatCount="indefinite" calcMode="discrete"/></rect>
@@ -49,5 +49,5 @@
 <line x1="697" y1="116" x2="769" y2="116" stroke="#30363d"/>
 <g opacity=".4"><animate attributeName="opacity" values="0.4;1;0.4" keyTimes="0;0.6;0.8" dur="20s" repeatCount="indefinite" calcMode="discrete"/><text x="697" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A78BFA">✦ AI</text><text x="697" y="152" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A78BFA">predict</text></g>
 <rect x="697" y="162" width="72" height="3" rx="1.5" fill="#30363d"/>
-<rect x="697" y="162" width="0" height="3" rx="1.5" fill="#A78BFA"><animate attributeName="width" values="0;0;72;72" keyTimes="0;0.6;0.8;1" dur="20s" repeatCount="indefinite" /></rect>
+<rect x="697" y="162" width="0" height="3" rx="1.5" fill="#A78BFA"><animate attributeName="width" values="0;0;72;72" keyTimes="0;0.6;0.8;1" dur="20s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;1;.3;.3" keyTimes="0;0.8;0.83;1" dur="20s" repeatCount="indefinite" /></rect>
 </svg>
